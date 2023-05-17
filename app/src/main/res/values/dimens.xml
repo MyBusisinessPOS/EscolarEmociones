@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="zero_dp">0dp</dimen>
+    <dimen name="one_dp">1dp</dimen>
+    <dimen name="two_dp">2dp</dimen>
+    <dimen name="three_dp">3dp</dimen>
+    <dimen name="five_dp">5dp</dimen>
+    <dimen name="ten_dp">10dp</dimen>
+    <dimen name="fifteen_dp">15dp</dimen>
+    <dimen name="twenty_dp">20dp</dimen>
+    <dimen name="thirty_dp">30dp</dimen>
+    <dimen name="forty_dp">40dp</dimen>
+    <dimen name="fifty_dp">50dp</dimen>
+
+    <dimen name="sixty_dp">60dp</dimen>
+
+    <dimen name="ninety_dp">90dp</dimen>
+    <dimen name="one_hundreds_dp">100dp</dimen>
+
+    <dimen name="one_fifty_dp">150dp</dimen>
+
+    <dimen name="two_hundreds_dp">200dp</dimen>
+    <dimen name="two_fifty_dp">250dp</dimen>
+    <dimen name="three_fifty_hundreds_dp">350dp</dimen>
+
+    <!--font size-->
+    <dimen name="twelve_sp">12sp</dimen>
+    <dimen name="fourteen_sp">14sp</dimen>
+    <dimen name="sixteen_sp">16sp</dimen>
+    <dimen name="eighteen_sp">18sp</dimen>
+    <dimen name="twenty_sp">20sp</dimen>
+    <dimen name="twenty_two_sp">22sp</dimen>
+    <dimen name="_50dp">50dp</dimen>
+    <dimen name="sp16">16sp</dimen>
+    <dimen name="dp40">40dp</dimen>
+    <dimen name="dp5">5dp</dimen>
+    <dimen name="dp10">10dp</dimen>
+    <dimen name="dp20">20dp</dimen>
+
+    <!-- Utils -->
+    <dimen name="space_1">1dp</dimen>
+    <dimen name="space_2">2dp</dimen>
+    <dimen name="space_4">4dp</dimen>
+    <dimen name="space_8">8dp</dimen>
+    <dimen name="space_12">12dp</dimen>
+    <dimen name="space_16">16dp</dimen>
+    <dimen name="space_20">20dp</dimen>
+    <dimen name="space_24">24dp</dimen>
+    <dimen name="space_28">28dp</dimen>
+    <dimen name="space_32">32dp</dimen>
+    <dimen name="space_36">36dp</dimen>
+    <dimen name="space_40">40dp</dimen>
+    <dimen name="space_44">44dp</dimen>
+    <dimen name="space_48">48dp</dimen>
+    <dimen name="space_52">52dp</dimen>
+    <dimen name="space_56">56dp</dimen>
+    <dimen name="space_60">60dp</dimen>
+    <dimen name="space_64">64dp</dimen>
+    <dimen name="space_68">68dp</dimen>
+    <dimen name="space_72">72dp</dimen>
+    <dimen name="space_76">76dp</dimen>
+    <dimen name="space_80">80dp</dimen>
+    <dimen name="space_84">84dp</dimen>
+    <dimen name="space_88">88dp</dimen>
+    <dimen name="space_92">92dp</dimen>
+    <dimen name="space_96">96dp</dimen>
+    <dimen name="space_100">100dp</dimen>
+
+
+</resources>
